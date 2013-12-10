@@ -7,6 +7,7 @@ Url:		https://wiki.mozilla.org/NPAPI
 Group:		System/Libraries
 Source0:	npapi-sdk-%{version}.tar.bz2
 Source1:	npapi-sdk.pc.in
+Source2:	npapi-sdk.rpmlintrc
 Provides:	npapi-devel
 BuildArch:      noarch
 
