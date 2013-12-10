@@ -1,0 +1,7 @@
+prefix=/usr
+includedir=/usr/include/npapi
+
+Name: Mozilla Plug-In API
+Description: Mozilla Plug-In API
+Version: %VERSION%
+Cflags: -I${includedir} -DXP_UNIX
