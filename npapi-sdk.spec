@@ -1,7 +1,7 @@
 Name:		npapi-sdk
 License:	MPL-1.1 or GPL-2.0+ or LGPL-2.1+
 Version:	0.27
-Release:	2
+Release:	3
 Summary:	Netscape Plugin API (NPAPI)
 Url:		https://wiki.mozilla.org/NPAPI
 Group:		System/Libraries
